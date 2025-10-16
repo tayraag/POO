@@ -1,0 +1,60 @@
+# Configuración estática de alumnos, carreras y planes de estudio
+
+## Carreras
+Ingeniería Informática
+	-Cantidad de cuatrimestres: 6
+	-Cantidad de optativas mínimas: 2
+	-Tipo de Plan de Estudios: Tipo A
+Licenciatura en Matemática4
+	-Cantidad de cuatrimestres: 6
+	-Cantidad de optativas mínimas: 3
+	-Tipo de Plan de Estudios: Tipo C
+
+## Alumnos
+- Juan Perez (Licenciatura en Matemática)
+- Ana Garcia (Ingeniería Informática)
+
+## Materias Ingeniería Informática
+- Cuatrimestre 1
+  - Matemáticas I (Obligatoria)
+  - Programación I (Obligatoria)
+- Cuatrimestre 2
+  - Matemáticas II (Obligatoria)
+  - Programación II (Optativa)
+- Cuatrimestre 3
+  - Algoritmos (Obligatoria)
+  - Estructuras de Datos (Obligatoria)
+- Cuatrimestre 4
+  - Bases de Datos (Optativa)
+  - Ingeniería de Software (Obligatoria)
+- Cuatrimestre 5
+  - Redes (Obligatoria)
+  - Sistemas Operativos (Optativa)
+- Cuatrimestre 6
+  - Inteligencia Artificial (Obligatoria)
+  - Proyecto Final (Obligatoria)
+
+## Materias Licenciatura en Matemática
+- Cuatrimestre 1
+  - Álgebra I (Obligatoria)
+  - Cálculo I (Obligatoria)
+- Cuatrimestre 2
+  - Álgebra II (Optativa)
+  - Cálculo II (Obligatoria)
+- Cuatrimestre 3
+  - Estadística I (Obligatoria)
+  - Geometría I (Optativa)
+- Cuatrimestre 4
+  - Estadística II (Obligatoria)
+  - Geometría II (Obligatoria)
+- Cuatrimestre 5
+  - Análisis Matemático I (Obligatoria)
+  - Teoría de Números (Optativa)
+- Cuatrimestre 6
+  - Análisis Matemático II (Obligatoria)
+  - Trabajo Final (Obligatoria)
+
+
+# Se agregaron los dos alumnos uno a cada carrera.
+# Se inicializo a un alumno (Ana Garcia) como inscripta a todas las materias ya probadas, para luego poder verificar que si finalizo la carrera.
+# Se agregaron las correlativas de las dos carreras anteriores.
